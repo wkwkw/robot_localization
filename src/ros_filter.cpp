@@ -971,7 +971,7 @@ namespace RobotLocalization
              "\nmap_frame is " << mapFrameId_ <<
              "\nodom_frame is " << odomFrameId_ <<
              "\nbase_link_frame is " << baseLinkFrameId_ <<
-             "\base_link_frame_output is " << baseLinkOutputFrameId_ <<
+             "\nbase_link_frame_output is " << baseLinkOutputFrameId_ <<
              "\nworld_frame is " << worldFrameId_ <<
              "\ntransform_time_offset is " << tfTimeOffset_.toSec() <<
              "\ntransform_timeout is " << tfTimeout_.toSec() <<
